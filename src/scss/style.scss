@@ -9,6 +9,8 @@ $gray-mid:  #AAAAAA;
 //
 // Partials
 //
+@import 'partials/normalize';
+
 @import 'partials/header';
 @import 'partials/footer';
 @import 'partials/course-goals';
